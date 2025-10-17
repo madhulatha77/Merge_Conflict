@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 AIML
 CSE
 IT
 DS
+=======
+AIML
+CSE
+IT
+DS
+>>>>>>> +b
